@@ -1,0 +1,109 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.bg-gradient-color {
+  background: linear-gradient(135deg, #EEFF00 0%, #FFAA00 50.81%, #FF5E00 100%);
+}
+.primary-box {
+  
+}
+.text-primary-color {
+  color: #55c0ec
+}
+.text-secondary-color {
+  color: rgb(156, 39, 176);
+}
+.text-third-color {
+  color: #29dcef
+}
+.bg-primary-color {
+  background-color: #55c0ec
+}
+
+.text-gradient-color {
+  background: linear-gradient(135deg, #c4edff 0%, #55c0ec 100%);
+  -webkit-background-clip: text; /* Background clip for text */
+  -webkit-text-fill-color: transparent; /* Make the text transparent to show the background */
+  background-clip: text; /* Standard background clip */
+  text-fill-color: transparent; /* Standard text fill color */
+}
+
+.text-secondary-color {
+  background: linear-gradient(135deg, #66FF00 0%, #16B862 51.88%, #00858F 100%);
+  -webkit-background-clip: text; /* Background clip for text */
+  -webkit-text-fill-color: transparent; /* Make the text transparent to show the background */
+  background-clip: text; /* Standard background clip */
+  text-fill-color: transparent; /* Standard text fill color */
+}
+
+.box {
+  width: 540px;
+  padding: 20px;
+}
+
+.border-gradient-color {
+  position: relative;
+  border-top: gray;
+  border-radius: 10px; /* Adjust the border radius */
+  z-index: 1; /* Ensure the content is above the pseudo-element */
+}
+
+.border-gradient-color::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px; /* Match the border radius */
+  padding: 1px; /* Adjust the thickness of the border */
+  /* background: linear-gradient(270deg, rgb(41, 220, 239) 0%, rgb(160, 75, 233) 100%); */
+  background: #29dcef;
+  -webkit-mask: 
+    linear-gradient(gray 0 0) content-box, 
+    linear-gradient(gray 0 0); /* Create space inside the border */
+  -webkit-mask-composite: destination-out;
+          mask-composite: exclude; /* Ensure the gradient is only applied to the border */
+  z-index: -1; /* Position the gradient behind the content */
+}

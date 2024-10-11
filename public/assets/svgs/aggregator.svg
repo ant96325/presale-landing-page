@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.748" height="46.071" viewBox="0 0 40.748 46.071">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #df39bb;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="aggregator" transform="translate(-40.156 -31.406)">
+    <path id="_114349" data-name="114349" class="cls-1" d="M78.7,42.564l-16.975-9.8a2.4,2.4,0,0,0-2.4,0l-16.975,9.8a2.4,2.4,0,0,0-1.2,2.077v19.6a2.4,2.4,0,0,0,1.2,2.078l16.975,9.8a2.4,2.4,0,0,0,2.4,0L78.7,66.32a2.4,2.4,0,0,0,1.2-2.078v-19.6A2.4,2.4,0,0,0,78.7,42.564Z"/>
+    <path id="_114350" data-name="114350" class="cls-2" d="M69.163,81.551l9.972,5.909,10.4-5.848" transform="translate(-18.82 -33.005)"/>
+    <line id="line" class="cls-2" y2="11.819" transform="translate(60.315 54.456)"/>
+  </g>
+</svg>

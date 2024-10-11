@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.199" height="47.037" viewBox="0 0 46.199 47.037">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #14d3c2;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #14d3c2;
+        font-size: 25px;
+        font-family: JetBrainsMono-Regular, JetBrains Mono;
+      }
+    </style>
+  </defs>
+  <g id="yield" transform="translate(690.718 22.968)">
+    <path id="_261" data-name="261" class="cls-1" d="M-652.354,1.463h5.733a1.073,1.073,0,0,1,.727,1.861l-21,19.361a1.073,1.073,0,0,1-1.454,0l-21-19.361a1.073,1.073,0,0,1,.727-1.861h5.735A1.073,1.073,0,0,0-681.81.391V-20.9a1.073,1.073,0,0,1,1.073-1.073h26.243a1.073,1.073,0,0,1,1.073,1.073l0,21.285A1.073,1.073,0,0,0-652.354,1.463Z" transform="translate(0 0)"/>
+    <text id="_" data-name="$" class="cls-2" transform="translate(-675.451 7.001)"><tspan x="0" y="0">$</tspan></text>
+  </g>
+</svg>

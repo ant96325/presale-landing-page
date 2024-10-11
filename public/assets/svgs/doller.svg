@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9d4df1;
+        font-size: 25px;
+        font-family: JetBrainsMono-Regular, JetBrains Mono;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #9d4df1;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="asset" transform="translate(-804 -849)">
+    <text id="_" data-name="$" class="cls-1" transform="translate(818 880)"><tspan x="0" y="0">$</tspan></text>
+    <g id="_38776" data-name="38776">
+      <g id="round" class="cls-2" transform="translate(804 849)">
+        <circle class="cls-4" cx="22" cy="22" r="22"/>
+        <circle class="cls-5" cx="22" cy="22" r="21"/>
+      </g>
+      <g id="rectangle" class="cls-3" transform="translate(825 850)">
+        <path class="cls-4" d="M0,0H2A0,0,0,0,1,2,0V4.5a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z"/>
+        <path class="cls-5" d="M.6.5h.8a.1.1,0,0,1,.1.1V4.5A.5.5,0,0,1,1,5H1a.5.5,0,0,1-.5-.5V.6A.1.1,0,0,1,.6.5Z"/>
+      </g>
+      <g id="rectangle-2" data-name="rectangle" class="cls-3" transform="translate(825 887)">
+        <path class="cls-4" d="M1,0H1A1,1,0,0,1,2,1V5.5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z"/>
+        <path class="cls-5" d="M1,.5H1a.5.5,0,0,1,.5.5V4.9a.1.1,0,0,1-.1.1H.6a.1.1,0,0,1-.1-.1V1A.5.5,0,0,1,1,.5Z"/>
+      </g>
+      <g id="rectangle-3" data-name="rectangle" class="cls-3" transform="translate(847 870) rotate(90)">
+        <path class="cls-4" d="M0,0H2A0,0,0,0,1,2,0V4.5a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V0A0,0,0,0,1,0,0Z"/>
+        <path class="cls-5" d="M.6.5h.8a.1.1,0,0,1,.1.1V4.5A.5.5,0,0,1,1,5H1a.5.5,0,0,1-.5-.5V.6A.1.1,0,0,1,.6.5Z"/>
+      </g>
+      <g id="rectangle-4" data-name="rectangle" class="cls-3" transform="translate(810 870) rotate(90)">
+        <path class="cls-4" d="M1,0H1A1,1,0,0,1,2,1V5.5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z"/>
+        <path class="cls-5" d="M1,.5H1a.5.5,0,0,1,.5.5V4.9a.1.1,0,0,1-.1.1H.6a.1.1,0,0,1-.1-.1V1A.5.5,0,0,1,1,.5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
